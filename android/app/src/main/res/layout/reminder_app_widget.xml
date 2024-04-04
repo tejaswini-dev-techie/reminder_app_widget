@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:app="http://schemas.android.com/apk/res-auto"
+   xmlns:tools="http://schemas.android.com/tools"
+   android:id="@+id/widget_container"
+   style="@style/Widget.Android.AppWidget.Container"
+   android:layout_width="wrap_content"
+   android:layout_height="match_parent"
+   android:background="@android:color/white"
+   android:theme="@style/Theme.Android.AppWidgetContainer">
+   
+   <TextView
+       android:id="@+id/title"
+       style="@style/Widget.Android.AppWidget.InnerView"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:background="@android:color/white"
+       android:text="Title"
+       android:textSize="20sp"
+       android:textStyle="bold"
+       android:textColor="#000000" />
+
+   <TextView
+       android:id="@+id/description"
+       style="@style/Widget.Android.AppWidget.InnerView"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@id/title"
+       android:background="@android:color/white"
+       android:text="Description"
+       android:textSize="16sp"
+       android:textColor="#000000" />
+
+    <ImageView
+        android:id="@+id/dashIcon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_below="@id/description"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible" />
+    
+</RelativeLayout>
+
