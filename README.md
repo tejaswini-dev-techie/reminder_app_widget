@@ -10,5 +10,5 @@ Ready to dive deeper into the world of home widgets? Learn all about the intrica
 
 ## Outcome
 
-![Outcome](https://github.com/tejaswini-dev-techie/reminder_app_widget/assets/79466038/04a5109e-fbad-48d3-84d8-4d3aca72cce7)
+<img width="267" alt="HW4" src="https://github.com/tejaswini-dev-techie/reminder_app_widget/assets/79466038/72f66033-2891-4c2e-aaf7-f07bd99df245">
 
