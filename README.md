@@ -6,7 +6,7 @@ App Widgets, also known as home widgets and interactive widgets, are like window
 
 Ready to dive deeper into the world of home widgets? Learn all about the intricacies of the Reminder App Widget - Home Widget in our detailed guide on Medium. Explore how this widget enhances your digital space and makes every interaction a delight!
 
-[Discover More](HTTP)
+[Discover More](https://medium.com/@dtejaswini.06/simplified-home-screen-widgets-a-developers-guide-for-homewidget-mastery-cf7d065ea3cd)
 
 ## Outcome
 
